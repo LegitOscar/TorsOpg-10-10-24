@@ -1,2 +1,3 @@
-# TorsOpg 10 10 24
+# Torsdags Opgave 10-10-24
+Oscar Børjesen
  
